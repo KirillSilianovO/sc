@@ -1,2 +1,2 @@
-# sc
-Computer Science
+# Computes science study
+
